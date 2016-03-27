@@ -1,6 +1,6 @@
 name: Millenial Mindset
 favicon: null
-layout_spectrum: 0.24049
+layout_spectrum: 0.5006
 typography_spectrum: 0.71703
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#232122'
     - '#7094b8'
     - '#585c5d'
-  brandStrength: 1
-  lightness: 0.5
+  brandStrength: 0.6875
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
