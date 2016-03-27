@@ -1,0 +1,28 @@
+name: Millenial Mindset
+favicon: null
+layout_spectrum: 0.560340320225805
+typography_spectrum: 0.8461232224944979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6096287886612117
+  lightness: 0.6658869271632284
+  saturation: 0.9533872730098665
+  rhythmicContrast: 0.7039103410206735
+purpose: []
